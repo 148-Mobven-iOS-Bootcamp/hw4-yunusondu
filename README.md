@@ -1,5 +1,5 @@
 # HW4
-# Yetiştirmem gereken bir projem vardı. Bu sebeple ödevi yapamadım.
+# Yetiştirmem gereken bir projem vardı. Bu sebeple ödevi yapamadım. Fakat bu hiç yapmayacağım anlamına gelmiyor. :)
 ## Ödev 1: 
 Bu hafta geliştirdiğimiz projedeki webView ekranında 
 - toolBar’a goForward, goBackward ve open in safari butonları ve özellikleri eklenecektir.
